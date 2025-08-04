@@ -57,7 +57,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "G431_ESC-4in1-V1.kicad_prl",
+    "filename": "ESC_G431-4in1.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
